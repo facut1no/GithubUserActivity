@@ -1,0 +1,14 @@
+/home/facut1no/github-activity/bin/Debug/net10.0/github-activity
+/home/facut1no/github-activity/bin/Debug/net10.0/github-activity.deps.json
+/home/facut1no/github-activity/bin/Debug/net10.0/github-activity.runtimeconfig.json
+/home/facut1no/github-activity/bin/Debug/net10.0/github-activity.dll
+/home/facut1no/github-activity/bin/Debug/net10.0/github-activity.pdb
+/home/facut1no/github-activity/obj/Debug/net10.0/github-activity.GeneratedMSBuildEditorConfig.editorconfig
+/home/facut1no/github-activity/obj/Debug/net10.0/github-activity.AssemblyInfoInputs.cache
+/home/facut1no/github-activity/obj/Debug/net10.0/github-activity.AssemblyInfo.cs
+/home/facut1no/github-activity/obj/Debug/net10.0/github-activity.csproj.CoreCompileInputs.cache
+/home/facut1no/github-activity/obj/Debug/net10.0/github-activity.dll
+/home/facut1no/github-activity/obj/Debug/net10.0/refint/github-activity.dll
+/home/facut1no/github-activity/obj/Debug/net10.0/github-activity.pdb
+/home/facut1no/github-activity/obj/Debug/net10.0/github-activity.genruntimeconfig.cache
+/home/facut1no/github-activity/obj/Debug/net10.0/ref/github-activity.dll
