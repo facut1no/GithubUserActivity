@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 internal sealed record GithubEvent
 {
     public long Id { get; init; }
-    public EventType Type { get; init; }
+    public string Type { get; init; } = string.Empty;
     public Repo? Repo { get; init; }
 
     [JsonPropertyName("created_at")]

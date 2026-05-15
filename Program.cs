@@ -26,35 +26,35 @@ public static class Program
         {
             switch (githubEvent.Type)
             {
-                case EventType.PushEvent:
+                case "PushEvent":
                     DisplayPushEvent(githubEvent);
                     break;
 
-                case EventType.CreateEvent:
+                case "CreateEvent":
                     DisplayCreateEvent(githubEvent);
                     break;
 
-                case EventType.DeleteEvent:
+                case "DeleteEvent":
                     DisplayDeleteEvent(githubEvent);
                     break;
 
-                case EventType.PullRequestEvent:
+                case "PullRequestEvent":
                     DisplayPullRequestEvent(githubEvent);
                     break;
 
-                case EventType.IssuesEvent:
+                case "IssuesEvent":
                     DisplayIssuesEvent(githubEvent);
                     break;
 
-                case EventType.ForkEvent:
+                case "ForkEvent":
                     DisplayForkEvent(githubEvent);
                     break;
 
-                case EventType.WatchEvent:
+                case "WatchEvent":
                     DisplayWatchEvent(githubEvent);
                     break;
 
-                case EventType.ReleaseEvent:
+                case "ReleaseEvent":
                     DisplayReleaseEvent(githubEvent);
                     break;
 
