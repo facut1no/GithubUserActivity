@@ -44,7 +44,7 @@ dotnet run <github-username>
 Example:
 
 ```bash
-dotnet run -- facut1no
+dotnet run facut1no
 ```
 
 ## Example Output
