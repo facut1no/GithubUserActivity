@@ -3,6 +3,10 @@ https://roadmap.sh/projects/github-user-activity
 
 A simple .NET console application that fetches and displays a user's public GitHub activity using the GitHub API.
 
+## Demo
+
+![](./example.gif)
+
 ## Features
 
 - Fetch public GitHub events
