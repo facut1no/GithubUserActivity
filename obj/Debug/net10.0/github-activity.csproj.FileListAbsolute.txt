@@ -12,3 +12,4 @@
 /home/facut1no/github-activity/obj/Debug/net10.0/github-activity.pdb
 /home/facut1no/github-activity/obj/Debug/net10.0/github-activity.genruntimeconfig.cache
 /home/facut1no/github-activity/obj/Debug/net10.0/ref/github-activity.dll
+/home/facut1no/github-activity/obj/Debug/net10.0/github-activity.sourcelink.json
