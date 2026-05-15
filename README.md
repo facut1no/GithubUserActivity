@@ -20,14 +20,37 @@ Check your installation:
 dotnet --version
 ```
 
-## Running the Project
+## Installation
+Clone the repository:
+
+```bash
+git clone https://github.com/facut1no/GithubUserActivity.git
 ```
-dotnet run -- <github-username>
+
+Navigate to the project directory:
+
+```bash
+cd GithubUserActivity
+```
+
+## Running the Project
+
+Run the application with a GitHub username:
+
+```bash
+dotnet run <github-username>
+```
+
+Example:
+
+```bash
+dotnet run -- facut1no
 ```
 
 ## Example Output
 ```
-[PUSH] Pushed a commit to facut1no/GithubUserActivity
-[STAR] Starred the repository golang/go
-[CREATE] Created a new repository in facut1no/ApiRedSocial
+[PUSH] Pushed a commit to facut1no/GithubUserActivity at 15/5/2026 8:11:05 p. m.
+[PUSH] Pushed a commit to facut1no/GithubUserActivity at 15/5/2026 7:48:44 p. m.
+[PUSH] Pushed a commit to facut1no/GithubUserActivity at 15/5/2026 7:44:11 p. m.
+[CREATE] Created a new repository or branch in facut1no/GithubUserActivity at 15/5/2026 6:04:55 p. m.
 ```
